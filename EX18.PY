@@ -42,6 +42,21 @@ capital = {
 # else:
 #     print("India is not present in the dictionary")
 
-capital.update({"Afghanistan": "Kabul"})
-print(capital.get("Afghanistan"))
+# capital.update({"Afghanistan": "Kabul"})
+# print(capital.get("Afghanistan"))
+
+
+# key = capital.keys()
+# for key in capital.keys():
+#     print(key)
+
+# values = capital.values()   
+# for values in capital.values():
+#     print(values)
+
+items = capital.items()
+for key ,values in capital.items():
+    print(f"{key} : {values}")
+
+
     
