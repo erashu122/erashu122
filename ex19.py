@@ -1,4 +1,3 @@
-#Concession stand program
 
 menu = {
     "hotdog": 2.00,
