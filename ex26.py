@@ -4,8 +4,9 @@
 #3. keyword-only argument= an argument that can only be passed by its name in the function call
 #4. arbitrary argument list= a parameter that accepts any number of arguments
 
-def net_price(list_price,discount ,tax):
+def net_price(list_price,discount  ,tax):
     return list_price*(1-discount)*(1+tax)
 
-print(net_price(500,0,0.05))
-print
+# print(net_price(500,0,0.05))
+# print(net_price(500))
+print(net_price(500,0.5,0.06))
