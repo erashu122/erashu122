@@ -1,6 +1,6 @@
 #dictionary= a collaction of{key:value} pairs
 #ordered, changeable and does not allow duplicates
-import random
+
 
 capital = {
     "India": "Delhi",
