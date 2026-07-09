@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m currently working on<br>React Projects<br><br>🌱 I’m currently learning<br>React.js • Node.js • DSA<br><br>💬 Ask me about<br>JavaScript • React • Web Development<br><br>⚡ Fun fact<br>I love turning ideas into websites<br><br>🌍 Portfolio: https://potfolio-website-three.vercel.app/
+💫 About Me:<br>🔭 I’m currently working on<br>React Projects<br><br>🌱 I’m currently learning<br>React.js • Node.js • DSA<br><br>💬 Ask me about<br>JavaScript • React • Web Development<br><br>⚡ Fun fact<br>I love turning ideas into websites<br><br>🌍 Portfolio: https://ashutosh-portfolio-taupe.vercel.app/
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=erashu122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=erashu122&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://ashutosh-portfolio-taupe.vercel.app/)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
